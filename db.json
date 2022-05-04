@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "Leepika",
+      "lastName": "Chowdary",
+      "email": "lipi@gmail.com",
+      "mobile": "3321553421",
+      "salary": "$ 30,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Leela",
+      "lastName": "Chowdary",
+      "email": "leela@gmail.com",
+      "mobile": "123422322",
+      "salary": "$ 50,000"
+    },
+    {
+      "id": 4,
+      "firstName": "Kunal",
+      "lastName": "Ray",
+      "email": "ray@gmail.com",
+      "mobile": "7734231903",
+      "salary": "$ 50,000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
